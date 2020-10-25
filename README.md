@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# Link to App
 https://ceckles.github.io/todo-list-react/
