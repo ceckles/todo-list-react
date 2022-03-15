@@ -59,12 +59,11 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## My Stats and Skills
+## My GitHub Stats
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
-  </details>
+  </details><br/>
 
 ## My Skills
-
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,html,java,js,jenkins)](https://skillicons.dev)
