@@ -66,4 +66,4 @@ Please make sure to update tests as appropriate.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,html,java,js,jenkins)](https://skillicons.dev)
