@@ -2,6 +2,7 @@
 
 ToDo is a react app that will allow you to add items to a todo list and mark them as complete or pending. application will also filter pending item vs complete items.
 
+The project uses react hooks: useEffects useState and functional componets to display a list and items to the user allowing them to create a todo list, the list is then stored in local storage to provide a persistant data.
 ## Installation
 
 Use the NPM package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install needed packages.
