@@ -44,6 +44,11 @@ npm start
 ```Browser
 localhost:3000
 ```
+
+## Link to Demo
+
+https://ceckles.github.io/todo-list-react/
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -54,13 +59,10 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Link to Demo
-
-https://ceckles.github.io/todo-list-react/
-
-## GitHub Stats
-  <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
   
 ## My Skills
 <br/>
 <img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash" />
+
+## GitHub Stats
+  <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
