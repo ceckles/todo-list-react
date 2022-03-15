@@ -60,8 +60,7 @@ https://ceckles.github.io/todo-list-react/
 
 ## GitHub Stats
   <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
-  <br/><br/>
   
 ## My Skills
 <br/>
-<img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash">
+<img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash" />
