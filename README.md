@@ -64,4 +64,4 @@ https://ceckles.github.io/todo-list-react/
   
 ## My Skills
 <br/>
-[![My Skill](https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash,)](https://skillicons.dev)
+<img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash">
