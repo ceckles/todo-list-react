@@ -62,9 +62,8 @@ Please make sure to update tests as appropriate.
   
 ## My Skills
 <br/>
-<img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash" />
-__
-__
+<img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash" />\
+
 ## My Skills
 <details>
   <summary>:zap: GitHub Stats</summary>
