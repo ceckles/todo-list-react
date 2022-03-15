@@ -60,5 +60,5 @@ https://ceckles.github.io/todo-list-react/
 
 ## GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eckles&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
+  <img align="left" alt="used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eckles&layout=compact&theme=slateorange" />
