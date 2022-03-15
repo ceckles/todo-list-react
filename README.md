@@ -60,9 +60,10 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ## My Skills
+<details>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,java,deno,docker,express,git,grafana,graphql,idea,jenkins,linux,materialui,mongodb,nodejs,react,spring,swift,ts,vscode)](https://skillicons.dev)
+</details>
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
