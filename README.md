@@ -62,7 +62,7 @@ Please make sure to update tests as appropriate.
   
 ## My Skills
 <details>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,java,deno,docker,express,git,graphql,idea,jenkins,linux,materialui,mongodb,nodejs,react,swift,ts,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,java,deno,docker,express,git,jenkins,linux,materialui,mongodb,nodejs,react,swift,ts,vscode)](https://skillicons.dev)
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
