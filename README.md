@@ -52,7 +52,7 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Link to App
+## Link to Demo
 
 https://ceckles.github.io/todo-list-react/
 
