@@ -63,10 +63,9 @@ Please make sure to update tests as appropriate.
 ## My Skills
 <br/>
 <img align="left" alt="skills" src="https://skillicons.dev/icons?i=js,ts,html,css,express,nodejs,react,deno,java,cs,materialui,spring,swift,vscode,mongodb,linux,jenkins,idea,grafana,graphql,git,docker,bash" />
-
-
-
 __
+__
+## My Skills
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
