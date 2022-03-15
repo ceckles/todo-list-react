@@ -30,7 +30,7 @@ The project uses react hooks: useEffects useState and functional componets to di
 
 ## Installation
 
-Use the NPM package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install needed packages.
+Use the npm package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install needed packages.
 
 ```bash
 npm install
