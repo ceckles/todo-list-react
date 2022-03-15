@@ -4,7 +4,7 @@ ToDo is a react app that will allow you to add items to a todo list and mark the
 
 The project uses react hooks: useEffects useState and functional componets to display a list and items to the user allowing them to create a todo list, the list is then stored in local storage to provide a persistant data.
 
-## Languages and Tools for Project:
+## Languages and Tools for Project
 
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
