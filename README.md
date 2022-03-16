@@ -59,6 +59,7 @@ Please make sure to update tests as appropriate.
   <img align="left" alt="ceckles' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ceckles&show_icons=true&hide_border=false&theme=slateorange" />
 
   </details><br/></br><br/><br/><br/><br/><br/>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceckles&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,cs,css,deno,docker,express,git,html,java,js,jenkins,linux,materialui,mongodb,nodejs,react,swift,ts,vscode)](https://skillicons.dev)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceckles&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
