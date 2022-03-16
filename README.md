@@ -41,7 +41,7 @@ localhost:3000
 
 ## Link to Demo
 
-https://ceckles.github.io/todo-list-react/
+[Demo Link](https://ceckles.github.io/todo-list-react/)
 
 ## Contributing
 
