@@ -1,10 +1,3 @@
-<style>
-#icons{
-    align: left;
-    padding-right: 10px;
-    width: 26px;
-}
-</style>
 # Todo List
 
 ToDo is a react app that will allow you to add items to a todo list and mark them as complete or pending. application will also filter pending item vs complete items.
@@ -13,7 +6,7 @@ The project uses react hooks: useEffects useState and functional componets to di
 
 ## Languages and Tools for Project
 
-<img id="icons" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
